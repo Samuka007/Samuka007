@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **[Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)**
 - 💬 Ask me about **SCUT**
 - 📫 How to reach me: [samuka007@dragonos.org]
-- ✨ Sponsor me? What about support **DC/EP**: 0061900151608277
+- ✨ Sponsor me? What about support **DC/EP**: `0061900151608277`
 
 [samuka007@dragonos.org]: mailto:samuka007@dragonos.org
