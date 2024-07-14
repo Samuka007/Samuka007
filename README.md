@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Samuka007's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuka007&show_icons=true&theme=radical)
+
+- 🔭 I’m currently working on **[DragonOS](https://github.com/DragonOS-Community/DragonOS)**
+- 🌱 I’m currently learning **[Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)**
+- 💬 Ask me about **SCUT**
+- 📫 How to reach me: [samuka007@dragonos.org]
+- ✨ Sponsor me? What about support **DC/EP**: 0061900151608277
+
+[samuka007@dragonos.org]: mailto:samuka007@dragonos.org
