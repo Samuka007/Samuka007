@@ -1,25 +1,9 @@
-## Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=samuka007&hide_border=true&show_icons=true&theme=dark">
 
-<!--
-**Samuka007/Samuka007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Samuka007's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuka007&show_icons=true&theme=radical)
+### Here's Samuka007 👋
 
 - 🔭 I’m currently working on **[DragonOS](https://github.com/DragonOS-Community/DragonOS)**
 - 🌱 I’m currently learning **[Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)**
-- 💬 Ask me about **SCUT**
 - 📫 How to reach me: [samuka007@dragonos.org]
 - ✨ Sponsor me? What about support **DC/EP**: `0061900151608277`
 
