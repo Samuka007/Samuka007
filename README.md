@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=samuka007&hide_border=true&show_icons=true&theme=dark"></br>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=samuka007&hide_border=true&show_icons=true&theme=dark">
 
 ### Here's Samuka007 👋
 
