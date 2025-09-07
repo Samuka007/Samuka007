@@ -2,8 +2,8 @@
 
 ### Here's Samuka007 👋
 
-- 🔭 I’m currently working on **[DragonOS](https://github.com/DragonOS-Community/DragonOS)**
-- 🌱 I’m currently learning **[Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)**
+- 🔭 I’m currently working on **[DragonOS Network Subsystem](https://github.com/DragonOS-Community/DragonOS/tree/feat-network-rebuild)**
+- 🌱 I’m currently learning **[CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/index.html)**
 - 📫 How to reach me: [samuka007@dragonos.org]
 - ✨ Sponsor me? What about support **DC/EP**: `0061900151608277`
 
