@@ -2,9 +2,9 @@
 
 ### Here's Samuka007 👋
 
-- 🔭 I’m currently working on **[DragonOS Network Subsystem](https://github.com/DragonOS-Community/DragonOS/tree/feat-network-rebuild)**
-- 🌱 I’m currently learning **[CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/index.html)**
-- 📫 How to reach me: [samuka007@dragonos.org]
+- 🔭 I’m currently working on **Vision-Language-Action Post-training**
+- 🌱 I’m currently learning **[Flow Matching](https://arxiv.org/abs/2210.02747)** on VLA
+- 📫 How to reach me: [me@samuka007.com]
 - ✨ Sponsor me? What about support **DC/EP**: `0061900151608277`
 
-[samuka007@dragonos.org]: mailto:samuka007@dragonos.org
+[me@samuka007.com]: mailto:me@samuka007.com
